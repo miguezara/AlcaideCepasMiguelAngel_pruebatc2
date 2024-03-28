@@ -1,0 +1,16 @@
+com\mycompany\turnoprueba\persistencia\TurnoJpaController.class
+com\mycompany\turnoprueba\resources\JakartaEE8Resource.class
+com\mycompany\turnoprueba\logica\Turno.class
+com\mycompany\turnoprueba\logica\Ciudadano.class
+com\mycompany\turnoprueba\persistencia\exceptions\IllegalOrphanException.class
+com\mycompany\turnoprueba\persistencia\TramiteJpaController.class
+com\mycompany\turnoprueba\persistencia\CiudadanoJpaController.class
+com\mycompany\turnoprueba\persistencia\exceptions\NonexistentEntityException.class
+com\mycompany\turnoprueba\persistencia\exceptions\PreexistingEntityException.class
+com\mycompany\turnoprueba\logica\ValidaDni.class
+com\mycompany\turnoprueba\servlets\TramiteSv.class
+com\mycompany\turnoprueba\logica\Tramite.class
+com\mycompany\turnoprueba\servlets\TurnoSv.class
+com\mycompany\turnoprueba\logica\Controladora.class
+com\mycompany\turnoprueba\JakartaRestConfiguration.class
+com\mycompany\turnoprueba\persistencia\ControladoraPersistencia.class
